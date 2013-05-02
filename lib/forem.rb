@@ -7,7 +7,7 @@ require 'forem/default_permissions'
 require 'workflow'
 
 require 'decorators'
-require 'localeapp'
+# require 'localeapp'
 
 module Forem
   mattr_accessor :user_class, :theme, :formatter, :default_gravatar, :default_gravatar_image,

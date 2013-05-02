@@ -20,11 +20,11 @@ module ::Forem
       ]
     end
 
-    initializer "forem.localeapp" do
-      require 'localeapp/rails'
+    # initializer "forem.localeapp" do
+    #   require 'localeapp/rails'
 
-      Localeapp.configure
-    end
+    #   Localeapp.configure
+    # end
   end
 end
 
