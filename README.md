@@ -1,5 +1,7 @@
 ![Forem - using the forem-theme-twist theme](https://github.com/radar/forem/raw/master/doc/twist-theme-post.png)
 
+No localeapp
+
 *Forem, using the forem-theme-twist theme*
 
 *For other screenshots, please see the `doc` folder*
